@@ -65,7 +65,7 @@ class _MyAppState extends State<MyApp> {
                       _counter++;
                     });
                   },
-                  child: Text('Builder: $_counter'),
+                  child: Text('StatefulBuilder: $_counter'),
                 );
               },
             ),
